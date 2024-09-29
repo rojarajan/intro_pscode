@@ -2,3 +2,16 @@
 # Add your pseudocode to this file below this line: #
 # ------------------------------------------------- #
 
+
+Warehouse width in number of columns
+Length in number of column
+Set location values
+Set width=0 and length =0
+While customer is not in the target
+Continue to do
+Tell customer position
+Then ask for input to move East, West, North, South
+For each input, move customer towards the target by +1 or -1
+Ask for input until customer location matches target
+Exit
+

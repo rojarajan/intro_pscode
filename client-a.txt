@@ -2,3 +2,13 @@
 # Add your pseudocode to this file below this line: #
 # ------------------------------------------------- #
 
+Generate Random number between 1 and 10
+Chances=3;
+If chances is more than 0 continue the game;
+Ask for player input= enter a number;
+Check if player's guess matched the random number;
+If yes print = "Player wins"exit;
+Else chances=-1;
+continue if chances >0
+If chances=0,
+Game over

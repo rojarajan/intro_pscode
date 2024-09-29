@@ -2,3 +2,9 @@
 # Add your pseudocode to this file below this line: #
 # ------------------------------------------------- #
 
+Package count is 2
+We start the initial value as 2 for package count
+While package is less than or equal to 50
+Count and print package count.
+Add by 2, package count =+2
+End
